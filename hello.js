@@ -10,8 +10,8 @@ console.log(`i am ${age} year old`);
 
 //let yob = prompt ('enter your yob: ');
 //console.log(yob);
-let If = prompt ( " Nhap Tuoi May Vao? ");
-//console.log(`Nam Sinh Cua May La: ${2019 -If} `);
+let If = prompt ( " Em Iu có iu anh hog? ");
+console.log(`Nam Sinh Cua May La: ${2019 -If} `);
 console.log(2019 + Number(If));
 // clear()
 // for( let i=0;i<50;i++)
